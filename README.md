@@ -71,7 +71,6 @@
 
 ✅ **Hulubeje API** – Enterprise REST API with over 100 endpoints  
 &nbsp;&nbsp;&nbsp;&nbsp;🛠 ASP.NET Core Web API + SQL Server + background services  
-&nbsp;&nbsp;&nbsp;&nbsp;🔐 IdentityServer integration for M2M auth
 
 ✅ **eCommerce Store** – Online product marketplace  
 &nbsp;&nbsp;&nbsp;&nbsp;💳 PayPal payment, cart system, product admin dashboard
@@ -80,7 +79,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🔗 fully functional system managing users, daily sales, transaction and much more
 
 ✅ **NeuroCare** – Wellness booking and feedback system  
-&nbsp;&nbsp;&nbsp;&nbsp;🧠 Built with full-stack stack, clean frontend UX
+&nbsp;&nbsp;&nbsp;&nbsp;🧠 My final year project. Has impressive functionalities.
 
 ---
 
