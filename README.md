@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/v2.17.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -41,8 +41,8 @@
 ✅ **eCommerce Store** – Online product marketplace  
 &nbsp;&nbsp;&nbsp;&nbsp;💳 PayPal payment, cart system, product admin dashboard
 
-✅ **Remotely** – Fiverr-like MERN freelancing platform  
-&nbsp;&nbsp;&nbsp;&nbsp;🔗 Stripe integration, secure login, full-stack logic
+✅ **Bingo Game** – Bingo game management website  
+&nbsp;&nbsp;&nbsp;&nbsp;🔗 fully functional system managing users, daily sales, transaction and much more
 
 ✅ **NeuroCare** – Wellness booking and feedback system  
 &nbsp;&nbsp;&nbsp;&nbsp;🧠 Built with full-stack stack, clean frontend UX
