@@ -10,7 +10,7 @@
 - 📘 BA in **Marketing Management**, St. Mary University — *Expected 2025*
 
 💼 **Currently:**  
-- 👨‍💻 Junior Backend Developer  
+- 👨‍💻 Backend Developer  
 - 🧠 Working with enterprise-grade **ASP.NET Core APIs**, **SQL Server**, and **real-time systems**
 
 🛠️ **Tech Stack:**
@@ -24,10 +24,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" style="background-color:white;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/v2.17.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 </p>
 
 ---
