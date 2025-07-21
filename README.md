@@ -62,7 +62,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=natiTED&show_icons=true&theme=radical" alt="Naaty's GitHub stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natiTED&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 >
