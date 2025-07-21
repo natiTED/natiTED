@@ -92,16 +92,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natiTED&show_icons=true&theme=radical" alt="Naaty's GitHub stats" />
-  <br />
-</p>
-
->
----
-
 ## 🤝 Let's Connect
 
 - 📧 Email: `natnaeltewodros9@gmail.com`
