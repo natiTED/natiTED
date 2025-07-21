@@ -28,6 +28,7 @@
 ### 🖥️ Backend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" alt="ASP.NET Core" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" />
 </p>
@@ -54,17 +55,6 @@
 ### ☁️ Cloud & DevOps
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="80" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Microsoft Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-</p>
-
----
-
-### 🔐 Authentication & Authorization
-<p>
-  <img src="https://duendesoftware.com/assets/img/icon.png" width="40" alt="Duende IdentityServer" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" width="40" alt="OAuth2" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/OpenID_logo_2.svg" width="40" alt="OpenID Connect" />
 </p>
 
 ---
