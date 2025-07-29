@@ -7,7 +7,7 @@
 
 🎓 **Education**  
 - 🎓 BSc in **Computer Science**, Addis Ababa University — *Graduated with Great Distinction (GPA: 3.73)*  
-- 📘 BA in **Marketing Management**, St. Mary University — *Expected 2025*
+- 📘 BA in **Marketing Management**, St. Mary University — *Expected 2026*
 
 💼 **Currently:**  
 - 👨‍💻 Backend Developer  
