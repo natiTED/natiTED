@@ -78,8 +78,8 @@
 ✅ **Bingo Game** – Bingo game management website  
 &nbsp;&nbsp;&nbsp;&nbsp;🔗 fully functional system with advanced game logics, managing users, sales, each transaction and much more
 
-✅ **NeuroCare** – Wellness booking and feedback system  
-&nbsp;&nbsp;&nbsp;&nbsp;🧠 My final year project. Has impressive functionalities.
+✅ **NeuroCare** – Mental Wellness booking and feedback system  
+&nbsp;&nbsp;&nbsp;&nbsp;🧠 Has impressive functionalities with both free and premimum plan. collecting survey and start diagnosis, real-time text/video chat with therapists.
 
 ---
 
